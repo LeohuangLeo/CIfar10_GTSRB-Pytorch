@@ -12,7 +12,7 @@ GTX1080
 ### Optimizer
 [diffGrad](https://arxiv.org/abs/1909.11015)
 
-[Ranger](https://medium.com/@lessw/new-deep-learning-optimizer-ranger-synergistic-combination-of-radam-lookahead-for-the-best-of-2dc83f79a48d)(([lockAhead(https://arxiv.org/abs/1907.08610)+[RAdam](https://arxiv.org/pdf/1908.03265.pdf)]))
+[Ranger](https://medium.com/@lessw/new-deep-learning-optimizer-ranger-synergistic-combination-of-radam-lookahead-for-the-best-of-2dc83f79a48d) [lockAhead](https://arxiv.org/abs/1907.08610)+[RAdam](https://arxiv.org/pdf/1908.03265.pdf)
 ## Datasets
 [The German Traffic Sign Recognition Benchmark(GTSRB)](http://benchmark.ini.rub.de/?section=gtsrb&subsection=news)
 
