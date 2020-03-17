@@ -10,4 +10,5 @@ GTX1080
 [diffGrad](https://arxiv.org/abs/1909.11015), [Ranger](https://medium.com/@lessw/new-deep-learning-optimizer-ranger-synergistic-combination-of-radam-lookahead-for-the-best-of-2dc83f79a48d)
 ## Datasets
 [The German Traffic Sign Recognition Benchmark(GTSRB)](http://benchmark.ini.rub.de/?section=gtsrb&subsection=news)
+
 [cifar-10](https://www.cs.toronto.edu/~kriz/cifar.html)
