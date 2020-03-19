@@ -23,4 +23,4 @@ the source code of "gtsrb_dataset.py" is from: https://github.com/tomlawrenceuk/
 ## Resutls
 
 ### Cifar-10 
-![image] https://github.com/LeohuangLeo/CIfar10_GTSRB-Pytorch/blob/master/image/cifarbest.png
+![image](https://github.com/LeohuangLeo/CIfar10_GTSRB-Pytorch/blob/master/image/cifarbest.png)
