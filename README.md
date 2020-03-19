@@ -4,6 +4,8 @@
 [Pytorch](https://pytorch.org/)
 
 GTX1080
+
+Visualization tools: matplotlib, tensorboard
 ## Training method
 ### Model
 [DenseNet](https://arxiv.org/abs/1608.06993)
