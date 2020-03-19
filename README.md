@@ -31,5 +31,5 @@ the source code of "gtsrb_dataset.py" is from: https://github.com/tomlawrenceuk/
 ### Optimizer comparison
 ![image](https://github.com/LeohuangLeo/CIfar10_GTSRB-Pytorch/blob/master/image/optimizer.png)
 
-### Model comparison
+### Model comparison [Model+Adam] test accuracy in efficientNet = 97.32%, DenseNet = 97.12%
 ![image](https://github.com/LeohuangLeo/CIfar10_GTSRB-Pytorch/blob/master/image/den_vs_effi_gtsrb.png)
