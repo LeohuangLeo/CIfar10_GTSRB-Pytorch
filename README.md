@@ -24,3 +24,12 @@ the source code of "gtsrb_dataset.py" is from: https://github.com/tomlawrenceuk/
 
 ### Cifar-10 [Efficient-b7+Image Augementation+Ranger] test accuracy = 92.57%
 ![image](https://github.com/LeohuangLeo/CIfar10_GTSRB-Pytorch/blob/master/image/cifarbest.png)
+
+### GTSRB [DenseNet121+Image Augmentation+Ranger] test accuracy = 99.98%
+![image](https://github.com/LeohuangLeo/CIfar10_GTSRB-Pytorch/blob/master/image/traffic_best.png)
+
+### Optimizer comparison
+![image](https://github.com/LeohuangLeo/CIfar10_GTSRB-Pytorch/blob/master/image/optimizer.png)
+
+### Model comparison
+![image](https://github.com/LeohuangLeo/CIfar10_GTSRB-Pytorch/blob/master/image/den_vs_effi_gtsrb.png)
